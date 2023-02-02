@@ -1,4 +1,4 @@
-# 🌠 David Vidal
+# 👾 David Vidal
 
 **`Frontend developer from 🇨🇱`**
 
